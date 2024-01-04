@@ -1,3 +1,11 @@
+# React Pomodoro Timer Project
+
+This is a Pomodoro Timer project to practice react fundamentals
+
+# How to Run Application
+
+- Please type npm install then npm run dev
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
