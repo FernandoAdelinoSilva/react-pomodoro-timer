@@ -21,4 +21,4 @@ This is a Pomodoro Timer project to practice react fundamentals
 
 - Main Page
 
-![Main Page](assets/pomodoro-main.png)
+![Main Page](src/assets/pomodoro-main.png)
